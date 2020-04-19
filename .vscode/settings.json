@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "env\\Scripts\\python.exe",
+  "appService.defaultWebAppToDeploy": "/subscriptions/1a094efa-1f84-466c-8071-2c4a8c06838e/resourceGroups/azure-django-demo/providers/Microsoft.Web/sites/ajala",
+  "appService.deploySubpath": "",
+  "files.exclude": {}
+}
